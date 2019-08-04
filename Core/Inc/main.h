@@ -52,6 +52,7 @@ extern "C" {
 
 /* Exported functions prototypes ---------------------------------------------*/
 void Error_Handler(void);
+void hal_hardware_init(void);
 
 /* USER CODE BEGIN EFP */
 
